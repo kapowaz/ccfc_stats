@@ -1,0 +1,1 @@
+set :deploy_to,   "/home/ccfc/www/stats/production"

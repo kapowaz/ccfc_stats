@@ -1,0 +1,93 @@
+/* Custom typography for Internet Explorer */
+
+@font-face 
+{
+  font-family: "DINPro";
+  generic-family: "sans-serif";
+  src: url('/fonts/DINPro-Bold.eot');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face 
+{
+  font-family: "DINPro";
+  generic-family: "sans-serif";
+  src: url('/fonts/DINPro-Regular.eot');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face 
+{
+  font-family: "DINPro";
+  generic-family: "sans-serif";
+  src: url('/fonts/DINPro-Black.eot');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face 
+{
+  font-family: "DINPro";
+  generic-family: "sans-serif";
+  src: url('/fonts/DINPro-Light.eot');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face 
+{
+  font-family: "DINPro";
+  generic-family: "sans-serif";
+  src: url('/fonts/DINPro-Medium.eot');
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Custom typography for all other browsers */
+
+@font-face 
+{
+  font-family: "DINPro";
+  generic-family: "sans-serif";
+  src: url('/fonts/DINPro-Bold.otf') format("opentype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face 
+{
+  font-family: "DINPro";
+  generic-family: "sans-serif";
+  src: url('/fonts/DINPro-Regular.otf') format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face 
+{
+  font-family: "DINPro";
+  generic-family: "sans-serif";
+  src: url('/fonts/DINPro-Black.otf') format("opentype");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face 
+{
+  font-family: "DINPro";
+  generic-family: "sans-serif";
+  src: url('/fonts/DINPro-Light.otf') format("opentype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face 
+{
+  font-family: "DINPro";
+  generic-family: "sans-serif";
+  src: url('/fonts/DINPro-Medium.otf') format("opentype");
+  font-weight: 500;
+  font-style: normal;
+}
